@@ -4,9 +4,7 @@ const nextConfig = {
     // Remove the 'images' property or any other invalid experimental options
   },
   // Add the following line to enable static HTML export
-  output: {
-    export: true
-  }
+  output: export,
 }
 
 module.exports = nextConfig

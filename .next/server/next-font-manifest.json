@@ -1,0 +1,21 @@
+{
+  "pages": {},
+  "app": {
+    "/home/mizan/Documents/test/bro-main/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": [
+      "static/media/2aaf0723e720e8b9-s.p.woff2"
+    ],
+    "/home/mizan/Documents/test/bro-main/node_modules/next/font/local/target.css?{\"path\":\"app/layout.js\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"/Font/Font/Nitti-Normal.woff2\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"/Font/Font/Nitti-Bold.woff2\",\"weight\":\"900\",\"style\":\"normal\"}]}],\"variableName\":\"myFont\"}": [
+      "static/media/86076688f770936e-s.p.woff2",
+      "static/media/274377e1254d6eb2-s.p.woff2"
+    ],
+    "/home/mizan/Documents/test/bro-main/node_modules/next/font/google/target.css.webpack[javascript/auto]!=!/home/mizan/Documents/test/bro-main/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[2].use[1]!/home/mizan/Documents/test/bro-main/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[2].use[2]!/home/mizan/Documents/test/bro-main/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": [
+      "static/media/2aaf0723e720e8b9-s.p.woff2"
+    ],
+    "/home/mizan/Documents/test/bro-main/node_modules/next/font/local/target.css.webpack[javascript/auto]!=!/home/mizan/Documents/test/bro-main/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!/home/mizan/Documents/test/bro-main/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!/home/mizan/Documents/test/bro-main/node_modules/next/font/local/target.css?{\"path\":\"app/layout.js\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"/Font/Font/Nitti-Normal.woff2\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"/Font/Font/Nitti-Bold.woff2\",\"weight\":\"900\",\"style\":\"normal\"}]}],\"variableName\":\"myFont\"}": [
+      "static/media/86076688f770936e-s.p.woff2",
+      "static/media/274377e1254d6eb2-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

@@ -135,7 +135,7 @@ export default function Home() {
 						<img className='h-24 sm:h-40 w-24 sm:w-40 object-contain' src='/assets/BROWebsite/BROElements/Logo_vertical.png' alt='logo' />
 						<div className='flex gap-x-4 justify-between items-center'>
 							<a href='https://twitter.com/Broccolicoineth' className=''>
-								<img className='h-5 w-5 sm:h-9 sm:w-9 object-contain' src='public/assets/BROWebsite/BROElements/White Icons/Twitter.png' alt='logo' />
+								<img className='h-5 w-5 sm:h-9 sm:w-9 object-contain' src='https://bootleg-boy.github.io/broccolicoin.github.io/assets/BROWebsite/BROElements/Twitter.png' alt='logo' />
 							</a>
 
 							<a href='https://t.me/broccolicoineth' className=''>
